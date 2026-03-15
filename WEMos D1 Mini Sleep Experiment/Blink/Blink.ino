@@ -7,7 +7,7 @@ void setup() {
   delay(1000);
   digitalWrite(LED_BUILTIN, HIGH);
 
-  ESP.deepSleep(0); 
+  ESP.deepSleep(2e6, WAKE_RF_DISABLED); 
 }
 
 void loop() {
