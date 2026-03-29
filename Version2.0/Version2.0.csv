@@ -1,0 +1,4 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"U1","DS3231M","http://datasheets.maximintegrated.com/en/ds/DS3231.pdf","Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm","1",""
+"U2","ESP-12F","http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf","RF_Module:ESP-12E","1",""
+"U3","TMP36xS","https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","1",""
